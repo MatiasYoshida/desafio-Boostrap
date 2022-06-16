@@ -7,3 +7,28 @@
     background-color: #6b92f7;
     border-color: #6b92f7;
 }
+
+
+
+.w-100{
+    width: 40% !important;
+    margin: 0 auto;
+    border-radius: 15px;
+    margin-top: 4rem;
+}
+
+.nav-link{
+    font-family: 'Rubik', sans-serif;
+}
+
+.color-nav li:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+
+.color-nav img:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+
+
